@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Whitelabel VERSION\n"
 "Report-Msgid-Bugs-To: maheshwaribhavesh95863@gmail.com\n"
-"POT-Creation-Date: 2023-07-17 20:17+0000\n"
-"PO-Revision-Date: 2023-07-17 20:17+0000\n"
+"POT-Creation-Date: 2023-08-26 23:01+0000\n"
+"PO-Revision-Date: 2023-08-26 23:01+0000\n"
 "Last-Translator: maheshwaribhavesh95863@gmail.com\n"
 "Language-Team: maheshwaribhavesh95863@gmail.com\n"
 "MIME-Version: 1.0\n"
@@ -16,18 +16,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.1\n"
 
-#. DocType: Whitelabel Setting:1
-msgid "App Logo Set"
-msgstr ""
-
 #. Label of a Check field in DocType 'Whitelabel Setting'
 #: whitelabel/doctype/whitelabel_setting/whitelabel_setting.json
 msgctxt "Whitelabel Setting"
 msgid "App Logo Set"
-msgstr ""
-
-#. DocType: Whitelabel Setting:1
-msgid "Application Logo"
 msgstr ""
 
 #. Label of a Attach field in DocType 'Whitelabel Setting'
@@ -36,38 +28,22 @@ msgctxt "Whitelabel Setting"
 msgid "Application Logo"
 msgstr ""
 
-#. DocType: Whitelabel Setting:1
-msgid "Disable New Update Popup"
-msgstr ""
-
 #. Label of a Check field in DocType 'Whitelabel Setting'
 #: whitelabel/doctype/whitelabel_setting/whitelabel_setting.json
 msgctxt "Whitelabel Setting"
 msgid "Disable New Update Popup"
 msgstr ""
 
-#. DocType: Whitelabel Setting:1
-msgid "Disable Standard Footer"
-msgstr ""
-
 #. Label of a Check field in DocType 'Whitelabel Setting'
 #: whitelabel/doctype/whitelabel_setting/whitelabel_setting.json
 msgctxt "Whitelabel Setting"
 msgid "Disable Standard Footer"
-msgstr ""
-
-#. DocType: Whitelabel Setting:1
-msgid "Email Footer"
 msgstr ""
 
 #. Label of a Section Break field in DocType 'Whitelabel Setting'
 #: whitelabel/doctype/whitelabel_setting/whitelabel_setting.json
 msgctxt "Whitelabel Setting"
 msgid "Email Footer"
-msgstr ""
-
-#. DocType: Whitelabel Setting:1
-msgid "Email Footer Address"
 msgstr ""
 
 #. Label of a Small Text field in DocType 'Whitelabel Setting'
@@ -76,28 +52,16 @@ msgctxt "Whitelabel Setting"
 msgid "Email Footer Address"
 msgstr ""
 
-#. DocType: Whitelabel Setting:1
-msgid "Ignore Onboard Whitelabel"
-msgstr ""
-
 #. Label of a Check field in DocType 'Whitelabel Setting'
 #: whitelabel/doctype/whitelabel_setting/whitelabel_setting.json
 msgctxt "Whitelabel Setting"
 msgid "Ignore Onboard Whitelabel"
 msgstr ""
 
-#. DocType: Whitelabel Setting:1
-msgid "In Hex Code"
-msgstr ""
-
 #. Description of a Data field in DocType 'Whitelabel Setting'
 #: whitelabel/doctype/whitelabel_setting/whitelabel_setting.json
 msgctxt "Whitelabel Setting"
 msgid "In Hex Code"
-msgstr ""
-
-#. DocType: Whitelabel Setting:1
-msgid "In pixel"
 msgstr ""
 
 #. Description of a Data field in DocType 'Whitelabel Setting'
@@ -106,18 +70,10 @@ msgctxt "Whitelabel Setting"
 msgid "In pixel"
 msgstr ""
 
-#. DocType: Whitelabel Setting:1
-msgid "Logo Height"
-msgstr ""
-
 #. Label of a Data field in DocType 'Whitelabel Setting'
 #: whitelabel/doctype/whitelabel_setting/whitelabel_setting.json
 msgctxt "Whitelabel Setting"
 msgid "Logo Height"
-msgstr ""
-
-#. DocType: Whitelabel Setting:1
-msgid "Logo Setting"
 msgstr ""
 
 #. Label of a Section Break field in DocType 'Whitelabel Setting'
@@ -126,28 +82,16 @@ msgctxt "Whitelabel Setting"
 msgid "Logo Setting"
 msgstr ""
 
-#. DocType: Whitelabel Setting:1
-msgid "Logo Width"
-msgstr ""
-
 #. Label of a Data field in DocType 'Whitelabel Setting'
 #: whitelabel/doctype/whitelabel_setting/whitelabel_setting.json
 msgctxt "Whitelabel Setting"
 msgid "Logo Width"
 msgstr ""
 
-#. DocType: Whitelabel Setting:1
-msgid "Navbar Background Color"
-msgstr ""
-
 #. Label of a Data field in DocType 'Whitelabel Setting'
 #: whitelabel/doctype/whitelabel_setting/whitelabel_setting.json
 msgctxt "Whitelabel Setting"
 msgid "Navbar Background Color"
-msgstr ""
-
-#. DocType: Whitelabel Setting:1
-msgid "Navbar Setting"
 msgstr ""
 
 #. Label of a Section Break field in DocType 'Whitelabel Setting'
@@ -156,18 +100,10 @@ msgctxt "Whitelabel Setting"
 msgid "Navbar Setting"
 msgstr ""
 
-#. DocType: Whitelabel Setting:1
-msgid "Navbar Title"
-msgstr ""
-
 #. Label of a Data field in DocType 'Whitelabel Setting'
 #: whitelabel/doctype/whitelabel_setting/whitelabel_setting.json
 msgctxt "Whitelabel Setting"
 msgid "Navbar Title"
-msgstr ""
-
-#. DocType: Whitelabel Setting:1
-msgid "Navbar Title Style"
 msgstr ""
 
 #. Label of a Code field in DocType 'Whitelabel Setting'
@@ -184,10 +120,6 @@ msgstr ""
 msgid "New {} releases for the following apps are available"
 msgstr ""
 
-#. DocType: Whitelabel Setting:1
-msgid "Show Help Menu"
-msgstr ""
-
 #. Label of a Check field in DocType 'Whitelabel Setting'
 #: whitelabel/doctype/whitelabel_setting/whitelabel_setting.json
 msgctxt "Whitelabel Setting"
@@ -195,13 +127,8 @@ msgid "Show Help Menu"
 msgstr ""
 
 #. Name of a role
-#. DocType: Whitelabel Setting:1
 #: whitelabel/doctype/whitelabel_setting/whitelabel_setting.json
 msgid "System Manager"
-msgstr ""
-
-#. DocType: Whitelabel Setting:1
-msgid "Upload the logo as public so it can accessible at login page "
 msgstr ""
 
 #. Description of a Attach field in DocType 'Whitelabel Setting'
@@ -210,13 +137,8 @@ msgctxt "Whitelabel Setting"
 msgid "Upload the logo as public so it can accessible at login page "
 msgstr ""
 
-#. DocType: Whitelabel Setting:1
 #: config/desktop.py:12
 msgid "Whitelabel"
-msgstr ""
-
-#. DocType: Whitelabel Setting:1
-msgid "Whitelabel App Name"
 msgstr ""
 
 #. Label of a Data field in DocType 'Whitelabel Setting'
@@ -226,7 +148,6 @@ msgid "Whitelabel App Name"
 msgstr ""
 
 #. Name of a DocType
-#. DocType: Whitelabel Setting:1
 #: whitelabel/doctype/whitelabel_setting/whitelabel_setting.json
 msgid "Whitelabel Setting"
 msgstr ""
